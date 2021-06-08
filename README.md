@@ -1,4 +1,4 @@
-## Official page for "Learning factorized weight matrix for joint filtering", ICML 2020
+## FWM: "Learning factorized weight matrix for joint filtering", ICML 2020
 
 [Paper](http://proceedings.mlr.press/v119/xu20f/xu20f.pdf), [Project](https://sites.google.com/view/xiangyuxu/fwm_icml20)
 
